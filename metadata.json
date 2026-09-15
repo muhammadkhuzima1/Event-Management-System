@@ -1,0 +1,8 @@
+{
+  "name": "Nowshera Events Co.",
+  "description": "Production-grade responsive event management platform for workshops, seminars, and community events with real-time Supabase Auth and database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
